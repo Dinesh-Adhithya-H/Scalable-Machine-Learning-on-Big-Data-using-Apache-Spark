@@ -11,3 +11,5 @@
  from pyspark.sql import SparkSession
  
  sc=SparkContext.getOrCreate(SparkConf().setMaster("local[*]"))
+ 
+ spark=SparkSession.builder.getOrCreate()
