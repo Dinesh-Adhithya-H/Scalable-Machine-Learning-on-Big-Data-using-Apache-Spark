@@ -1,6 +1,6 @@
 # Scalable-Machine-Learning-on-Big-Data-using-Apache-Spark
 
-## To use pyspark in colab the following commands who make it possible
+## To use pyspark in colab:
 
  !pip install pyspark
  
